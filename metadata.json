@@ -1,0 +1,6 @@
+{
+  "name": "VigiDrive - Detector de Sono e Fadiga ao Volante",
+  "description": "Aplicativo veicular que monitora a sonolência do motorista em tempo real através da câmera, emitindo alerta sonoro imediato ao detectar sonolência ou sono profundo.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
